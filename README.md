@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikhyathkumar
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning various tools in DevOps and AWS
-- 💞️ I’m looking to collaborate on anyone who are in DevOps
+- 💞️ I’m looking to collaborate with anyone who are in or interested in DevOps
 - 📫 How to reach me vikhyath.gail@gmail.com
 
 
